@@ -1,0 +1,10 @@
+C:\Users\dusti\source\repos\FirstNumberGuessingGame\obj\Debug\netcoreapp2.1\FirstNumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\dusti\source\repos\FirstNumberGuessingGame\obj\Debug\netcoreapp2.1\FirstNumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\dusti\source\repos\FirstNumberGuessingGame\obj\Debug\netcoreapp2.1\FirstNumberGuessingGame.AssemblyInfo.cs
+C:\Users\dusti\source\repos\FirstNumberGuessingGame\bin\Debug\netcoreapp2.1\FirstNumberGuessingGame.deps.json
+C:\Users\dusti\source\repos\FirstNumberGuessingGame\bin\Debug\netcoreapp2.1\FirstNumberGuessingGame.runtimeconfig.json
+C:\Users\dusti\source\repos\FirstNumberGuessingGame\bin\Debug\netcoreapp2.1\FirstNumberGuessingGame.runtimeconfig.dev.json
+C:\Users\dusti\source\repos\FirstNumberGuessingGame\bin\Debug\netcoreapp2.1\FirstNumberGuessingGame.dll
+C:\Users\dusti\source\repos\FirstNumberGuessingGame\bin\Debug\netcoreapp2.1\FirstNumberGuessingGame.pdb
+C:\Users\dusti\source\repos\FirstNumberGuessingGame\obj\Debug\netcoreapp2.1\FirstNumberGuessingGame.dll
+C:\Users\dusti\source\repos\FirstNumberGuessingGame\obj\Debug\netcoreapp2.1\FirstNumberGuessingGame.pdb
