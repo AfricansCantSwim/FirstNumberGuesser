@@ -20,7 +20,7 @@ namespace FirstNumberGuessingGame
             Console.WriteLine("The random number is: " + rnd);
             Console.Clear();
             info();//info
-            int guess =010;//guessed number, thihs is changed later
+            int guess;//guessed number, thihs is changed later
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Keep in mind if you write a decimal the program will break, i can fix this but im too lazy to.");
             Console.ResetColor();
